@@ -16,7 +16,7 @@ public class LearnJenkinsApplication {
 	@PostConstruct
 	public  void intt()
 	{
-		log.info("Application started...........");
+		log.info("Application started along with test cases...........");
 	}
 
 	public static void main(String[] args) {
