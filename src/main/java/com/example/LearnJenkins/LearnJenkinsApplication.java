@@ -20,7 +20,6 @@ public class LearnJenkinsApplication {
 	}
 
 	public static void main(String[] args) {
-		log.info("Application started...........");
 		SpringApplication.run(LearnJenkinsApplication.class, args);
 	}
 
